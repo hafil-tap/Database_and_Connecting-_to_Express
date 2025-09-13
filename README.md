@@ -10,7 +10,7 @@ This assignment will give you hands-on experience writing the connection logic, 
 
 - A basic Express boilerplate has been provided.
 - You need to install all the required dependencies using npm install.
-
+  
 ### 2. Set Up Environment Configuration
 
 - Create a .env file in the root directory.
